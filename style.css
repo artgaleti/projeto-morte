@@ -4,11 +4,11 @@
 
 }
 h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: lighter;
+    font-family: sans-serif;
     text-align: center;
     color: rgb(0, 0, 0);
     padding: 2px;
+    font-weight: lighter;
    
     
  
@@ -17,6 +17,7 @@ li {
     font-family: 'pinto';
     text-decoration: underline;
     margin-right: 25px;
+    
     
     
    
@@ -53,16 +54,17 @@ img{
 .introducao{
     text-align: center;
     font-family: sans-serif;
-    font-size: calc(0.3em + 1vw);
-   
+    font-size: calc(0.2em + 1vw);
+    width: 70%;
+    margin: auto;
+    display: block;
+    margin-top: 2%;
+    margin-bottom: 4%;
     
   
 }
 
-small{
-font-style: italic;
-text-decoration: underline;
-}
+
 
 
 
