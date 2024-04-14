@@ -8,11 +8,14 @@ h1 {
     font-weight: lighter;
     text-align: center;
     color: rgb(0, 0, 0);
+    
  
 }
 li {
     font-family: 'pinto';
     text-decoration: underline;
+    margin-right: 25px;
+   
     
    
 
@@ -27,14 +30,10 @@ a {
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: light;
-    font-size: 1vw;
+    
    
 }
 
-
-h1#principal {
-  
-}
 
 img{
     border: 1px solid rgb(255, 221, 0);
@@ -51,7 +50,6 @@ img{
 
 .introducao{
     text-align: center;
-    font-size: clamp(1em, 1em + 1vw, 1.3em);
     font-family: sans-serif;
     
   
@@ -70,6 +68,7 @@ img {
     width: 90%;
     }
 }
+
 
 .dif {
 color: brown;
