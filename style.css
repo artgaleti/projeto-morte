@@ -17,6 +17,7 @@ li {
     font-family: 'pinto';
     text-decoration: underline;
     margin-right: 25px;
+    
    
     
    
@@ -53,6 +54,8 @@ img{
 .introducao{
     text-align: center;
     font-family: sans-serif;
+    font-size: calc(0.3em + 1vw);
+   
     
   
 }
