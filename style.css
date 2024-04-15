@@ -17,6 +17,7 @@ li {
     font-family: 'pinto';
     text-decoration: underline;
     margin-right: 25px;
+    font-size: calc(0em + 0.9vw);
     
     
     
