@@ -8,6 +8,11 @@
     font-family: 'fontenova';
     src: url('kenyan coffee bd it.otf')  format('opentype');
 }
+
+body {
+    text-align: center;
+   
+}
 h1 {
     font-family: sans-serif;
     text-align: center;
@@ -21,8 +26,9 @@ h1 {
 li {
     font-family: 'fontenova';
     text-decoration: underline;
-    margin-right: 25px;
+    margin-right: 22px;
     font-size: 1.3em;
+    
     
     
     
@@ -30,6 +36,7 @@ li {
    
 
 }
+
 
 
 a {
